@@ -42,7 +42,7 @@ bot.on('message', message=>{
             }
             break; 
         case 'rule':
-            message.channel.sendMessage(`@everyone 
+            message.channel.sendMessage(`
             Rules 規則
             
             [1] » 互相尊重，不要亂講話，不要亂嘴人，不要罵人。
